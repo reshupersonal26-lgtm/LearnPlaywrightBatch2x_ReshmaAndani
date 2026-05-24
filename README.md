@@ -44,3 +44,7 @@ This repository contains JavaScript concepts and exercises for learning Playwrig
 - `Logical_Operator.js` - Logical operators
 - `String_Concatenation_OP.js` - String concatenation
 - `InterviewQuestions.js` / `IQ_Loose_Strict.js` - Interview questions on operators
+
+### Chapter 7: If-Else
+- `FizzBuzz_Test.js` - FizzBuzz classic interview problem
+- `TrainagleClassifier.js` - Triangle type classifier
