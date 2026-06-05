@@ -16,3 +16,4 @@ function greet1(name) {
 const greet2 = function (name1) {
     return `Hello, ${name1}`;
 }
+
