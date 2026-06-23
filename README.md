@@ -104,9 +104,66 @@ This repository contains JavaScript concepts and exercises for learning Playwrig
 ### Chapter 12: Functions
 - `Functions.js` - Function basics
 - `Fn_Expression.js` - Function expressions
-- `Arrow_Fn.js` - Arrow functions
+- `Arrow_Fn.js` / `Arrow_Fn_Real.js` - Arrow functions
 - `Template_Literal.js` - Template literals in functions
 - `Type1_Fn_Basic_Function.js` - Basic function
 - `Type2_Fn_With_Param_No_Return.js` - Function with parameter, no return
 - `Type3_Fn_Without_Param_Returntype.js` - Function without parameter, with return
 - `Type4_Fn_With_Param_With_Return.js` - Function with parameter and return
+- `Default_Param_Fn.js` - Default parameters
+- `Rest_Param_Fn.js` - Rest parameters
+- `Spead_IQ.js` - Spread operator examples
+- `IIFE.js` - Immediately Invoked Function Expression
+- `Closure1_OldConcept.js` / `Closure2.js` - Closure concepts
+- `API_Real_Closure.js` - Real-world closure example
+- `Higher_Order_Fn.js` - Higher-order functions
+- `Pure_Fn.js` - Pure vs impure functions
+- `Scope_Fn_IQ.js` - Scope interview questions
+- `IQ.js` / `IQ1.js` / `IQ2.js` - Function interview questions
+
+### Chapter 13: Strings
+- `Strings.js` - String basics
+- `String_Properties.js` - String properties and methods
+- `StringConverter.js` - String case conversion
+- `Transform_str.js` - String transformations
+- `Search_Check_Str.js` - String search and check methods
+- `Substring.js` - Substring extraction
+- `String_Reverse.js` - String reversal
+- `String_Palindrome.js` - Palindrome checker
+- `String_Anagram.js` - Anagram checker
+- `String_CheatSheet.md` - String methods cheat sheet
+
+### Chapter 14: Objects
+- `Objects.js` / `Objects1.js` - Object basics
+- `Objects_Creation.js` - Creating objects
+- `Object_Examples.js` - Object examples
+- `Object_Function.js` - Functions inside objects
+- `Obj_Deconstruction.js` - Object destructuring
+- `Obj_Real.js` / `Objects_Real.js` - Real-world object examples
+- `Objects_GET_SET_Methods.js` - Getter and setter methods
+- `Primitive_Ref.js` - Primitive vs reference types
+- `IQ.js` / `IQ1.js` - Object interview questions
+
+### Chapter 15: 2D Arrays & Patterns
+- `2D_Array.js` / `2d.js` - 2D array basics
+- `2DArray_Fn.js` - 2D array functions
+- `Real_ex.js` - Real-world 2D array examples
+- `CenterPyramid_Pattern.js` - Center pyramid pattern
+- `IQ_RightPyramid_Pattern.js` - Right pyramid pattern
+
+### Chapter 16: Callbacks
+- `Callback.js` - Callback basics
+- `CB.js` - Callback examples
+- `CB_Fn.js` - Callback functions
+
+### Callback & Async Patterns (Root)
+- `JS_CB.js` - JavaScript callback patterns
+- `PW_CB.js` - Playwright callback patterns
+- `SYNC_CB.js` - Synchronous callbacks
+- `Async.CB.js` - Async callbacks
+- `CB_Hell.js` - Callback hell example
+- `CB_Parameter.js` - Callback parameter passing
+- `CB_Return.js` - Callback return values
+
+### Additional Programs
+- `pattern.js` - Pattern programs
