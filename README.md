@@ -165,5 +165,100 @@ This repository contains JavaScript concepts and exercises for learning Playwrig
 - `CB_Parameter.js` - Callback parameter passing
 - `CB_Return.js` - Callback return values
 
+### Chapter 17: Promise
+- `Promise.js` - Promise basics
+- `Callback_Pyramid_Problem.js` - Callback pyramid problem
+- `Finally.js` - Finally block usage
+- `Promise_REAL_API.js` / `Promise_REAL_API_Part2.js` - Real API examples
+- `Promise.ALL.js` - Promise.all usage
+- `Promise.IQ.js` - Promise interview questions
+
+### Chapter 18: Async/Await
+- `Async.js` / `Async_P2.js` - Async basics
+- `Async.Ex.js` - Async examples
+- `AA_Parallel.js` - Parallel async execution
+- `AA_Sequential.js` - Sequential async execution
+- `PyOfDom.js` - DOM promise example
+- `IQ.js` - Async interview questions
+
+### Chapter 19: Playwright Basics
+- `playwright.config.ts` - Playwright configuration
+- `example.spec.ts` - Example test spec
+- `tests/` - Test files (codegen_tta_cart.spec.ts, example.spec.ts)
+- `tta-cart.ts` - TTA cart test
+
+### Chapter 20: TypeScript Basics
+- `logger.js` / `1_Logger.js` - Logger module
+- `utils.js` / `a_Utils.js` - Utility module
+- `testutils.js` - Test utilities
+- `EXPORT_IMPORT.js` - Export/Import patterns
+- `EXPORT_IMPORT/` - Export/Import folder
+
+### Chapter 21: OOPs Basics
+- **CLASS_OBJECT/** - Class and Object concepts
+  - `Class_Object.js` / `Class_Object1.js` - Class/Object basics
+  - `Car.js` - Car class example
+  - `Private_Public.js` - Access modifiers
+  - `Real_Browsers.js` - Real browser example
+  - `Static.js` / `Static_variable.js` - Static members
+  - `IQ.js` - Interview questions
+  - `Task1_Calculator.js` / `Task2_Static_NonStatic.js` - Tasks
+- **ENCAPSULATION/** - Encapsulation concepts
+  - `Encapsulation.js` - Encapsulation basics
+  - `Encap_Bank.js` - Bank example
+  - `Encap_Car.js` - Car example
+  - `REAL_EXAMPLE.js` - Real-world example
+- **INHERITANCE/** - Inheritance concepts
+  - `Single_Inheritance.js` - Single inheritance
+  - `Hierarchical_Inheritance.js` - Hierarchical inheritance
+  - `Multiple_Inheritance.js` - Multiple inheritance
+  - `Multiple_Level_Inheritance.js` - Multilevel inheritance
+  - `REAL_PageObjectModel.js` - Real POM example
+  - `IQ.js` / `IQ2.js` - Interview questions
+  - `SI_Example.js` - Single inheritance example
+  - `Single_Inheritance_Controversial_Ex.js` - Controversial example
+- **Polymorphism/** - Polymorphism concepts
+  - `Method_Overriding.js` - Method overriding
+- **Interview Questions/** - OOPs interview questions
+  - `Ex1.js` - `Ex5.js`
+
+### Chapter 22: TypeScript
+- `TS_HelloWorld.ts` / `TS_HelloWorld.js` - Hello world
+- `TS_Part1.ts` - `TS_Part4.ts` - TypeScript parts
+- `TS.js` - TypeScript basics
+- `IQ.ts` / `IQ1.ts` / `IQ2.ts` - Interview questions
+
+### Chapter 23: TypeScript Interface
+- `Interface.ts` / `Interface1.ts` - Interface basics
+- `Interface_ReadOnly.ts` / `Interface_ReadOnly1.ts` - Read-only interfaces
+- `Class_Interface.ts` - Class implementing interface
+- `IF_Part2.ts` - Interface part 2
+- `TestConfig.ts` - Test configuration interface
+- `Real_Example.ts` - Real-world example
+- `Bug_Report.ts` - Bug report example
+- `Hooks.ts` - Hooks interface
+
+### Chapter 24: Enums
+- `ENUM.ts` - Enum basics
+- `Enum_Example.ts` - Enum examples
+- `Enum_function.ts` - Enum functions
+- `API.ts` - API enum example
+
+### Chapter 25: TypeScript Generic
+- `Generic.ts` - Generic basics
+- `Generic_Class.ts` - Generic classes
+- `Generic_API_response.ts` - Generic API response
+
+### Chapter 26: Private/Public/Protected
+- `PPP.ts` - Access modifiers
+- `Abstract_Class.ts` - Abstract classes
+- `Page_Object_Model.ts` - POM implementation
+- `ReadOnly.ts` - Read-only properties
+
+### Chapter 27: Type Override & Decorators
+- `Override.ts` - Method override
+- `Type_As.ts` - Type assertion (as)
+- `Type_Alias_As.ts` - Type alias and as
+
 ### Additional Programs
 - `pattern.js` - Pattern programs
